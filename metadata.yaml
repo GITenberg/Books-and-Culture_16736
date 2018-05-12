@@ -1,0 +1,30 @@
+_repo: Books-and-Culture_16736
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2005-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16736'
+  lccn: 04013857
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading'
+- !lcc 'PN'
+- !lcc 'PS'
+title: Books and Culture
+url: http://www.gutenberg.org/ebooks/16736
